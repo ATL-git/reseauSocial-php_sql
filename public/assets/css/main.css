@@ -1,0 +1,147 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+header {
+
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    margin-bottom: 30px;
+
+}
+
+a {
+
+    padding: 0px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    border: 1px solid grey;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: 15px;
+
+
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+footer {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 60px;
+    font-size: 18px;
+
+}
+
+#titletitle {
+
+    margin-bottom: 20px;
+    height: 25px;
+    width: 60%;
+    text-align: center;
+}
+
+#validButton {
+    width: 50%;
+    height: 25px;
+    margin-top: 20px;
+}
+
+#texttext {
+    height: 80px;
+    width: 80%;
+}
+
+.commentEnter {
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 26%;
+    text-align: center;
+    height: 200px;
+    margin: auto;
+    background-color: rgba(128, 128, 128, 0.337);
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.commentContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    min-height: 60px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgba(128, 128, 128, 0.337);
+    align-content: space-between;
+}
+
+.commentsContainer {
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+    align-content: space-between;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+#modifbutton {
+    margin: auto;
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#deletebutton {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#titlemodif{
+width: 50%;
+height: 25px;
+margin: auto;
+}
+
+#contentmodif{
+width: 50%;
+height: 25px;
+margin: auto;
+}
+
+#validmodif{
+width: 30%;
+height: 25px;
+margin: auto;
+}
+
+#like{
+    width: 10%;
+}
+
+img{
+  width: 100%;
+}
